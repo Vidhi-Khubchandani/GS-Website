@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+*{
+    overflow-x: hidden;
+}
+
+html,body{
+    height:100%;
+    font-family: 'Rubik', sans-serif !important;
+}
+
+
+.Footer{
+    margin-top: 6rem;
+}
+.Main{
+    margin-top: 12rem;
+    min-height: 70vh;
+}
+
+.mb-3 .placehldr
+{
+    height: 7vh;
+    font-weight: 500;
+    font-size: large;
+}
+
+.mb-3{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.mb-3 a{
+    text-decoration: none;
+}
+
+.mb-3 h2{
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: darkcyan;
+}
+
+.tandc{
+    font-size: large;
+    font-weight: 570;
+}
